@@ -10,7 +10,8 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on reactjs, nodejs, expressjs, nestjs projects
 - 📫 How to reach me: rlawlcns96@gmail.com
 
-💪 Skills
+## 💪 Skills
+
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-339933?style=flat-square&logo=Node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/express-000000?style=flat-square&logo=express&logoColor=white)
