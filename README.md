@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-[![github stats](https://github-readme-stats.vercel.app/api?username=jihyune&show_icons=true&hide_border=False)](https://github.com/jihyune) 
-
 - 🔭 I’m currently working on Team Heimdallr
 - 🌱 I’m currently learning FE, BE, BlockChain, ...
 - 👯 I’m looking to collaborate on reactjs, nodejs, expressjs, nestjs projects
