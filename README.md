@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Team Heimdallr
 - 🌱 I’m currently learning FE, BE, BlockChain, ...
 - 👯 I’m looking to collaborate on reactjs, nodejs, expressjs, nestjs projects
 - 📫 How to reach me: rlawlcns96@gmail.com
